@@ -17,6 +17,11 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1VYtFzjm0Vb5Q7ewSWtG5cAbqyW" />
@@ -92,18 +97,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1577445117398" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1577446401517">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1577457354726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577446401517" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577457354726" />
     <state x="547" y="262" key="Github.ShareDialog" timestamp="1577444681304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="547" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1577444681304" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577457337560">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577457375187">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577457337560" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577457375187" />
     <state x="371" y="167" key="git4idea.merge.GitPullDialog" timestamp="1577444991158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
